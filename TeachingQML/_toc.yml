@@ -1,0 +1,17 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+- file: intro
+- file: Sample Content Page
+  sections:
+    - file: markdown
+    - file: notebooks
+- file: Intro to QC
+  sections:
+    - file: ./QCIntro/Qubits
+    - file: ./QCIntro/Single Qubit Gates
+    - file: ./QCIntro/Multiple Qubits and Entanglement
+    - file: ./QCIntro/Multiple Qubit Gates
+- file: Variational Circuits
+  sections:
+    - file: ./Variational circuits/Variational Quantum Circuit
+    - file: ./Variational circuits/Variational Quantum Eigensolver
